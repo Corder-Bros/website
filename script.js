@@ -1,1 +1,0 @@
-console.log(sale kya kar rhe ga mera code dekh kar);
